@@ -1,0 +1,21 @@
+.navbar{
+box-sizing: content-box;
+height: 100px;
+background-color: rgb(96, 75, 98);
+
+    }
+.img1{
+    width: 80px;
+    height: 80px;
+    margin-left: 10px ;
+    margin-top: 10px;
+    border-radius: 50%;
+
+}
+ul {
+    list-style-position: inside;
+    }
+li{
+  display: inline;
+  list-style-type:none;
+}
